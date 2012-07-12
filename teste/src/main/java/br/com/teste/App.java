@@ -10,5 +10,6 @@ public class App
     {
         String v = "teste";
         System.out.println(v);
+        System.out.println("teste");
     }
 }

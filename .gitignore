@@ -1,0 +1,16 @@
+
+teste/.classpath
+
+.project
+
+teste/.gitignore
+
+teste/target/classes/META-INF/MANIFEST.MF
+
+teste/target/classes/META-INF/maven/br.com.teste/teste/pom.properties
+
+teste/target/classes/META-INF/maven/br.com.teste/teste/pom.xml
+
+teste/target/classes/br/com/.gitignore
+
+teste/target/test-classes/br/com/teste/AppTest.class
